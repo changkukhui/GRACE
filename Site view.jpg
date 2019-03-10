@@ -1,0 +1,1116 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="format-detection" content="telephone=no">
+
+<meta property="og:type" content="website"/>
+		<meta property="og:site_name" content="네이버 지도"/>
+		<meta property="og:title" content="그레이스 미술" /> 
+		
+		<meta property="og:image" content="https://ssl.map.naver.com/staticmap/image?version=1.1&crs=EPSG%3A4326&caller=og_map&center=126.7580576%2C37.7255159&level=11&scale=2&w=500&h=500&markers=type%2Cdefault2%2C126.7580576%2C37.7255159&baselayer=default" />
+		<meta property="twitter:image" content="https://ssl.map.naver.com/staticmap/image?version=1.1&crs=EPSG%3A4326&caller=og_map&center=126.7580576%2C37.7255159&level=11&scale=2&w=500&h=500&markers=type%2Cdefault2%2C126.7580576%2C37.7255159&baselayer=default" />
+		<meta property="og:description" content="체계적이고 꼼꼼한 실기지도(원장직강) 다양한 장르의 그리기를 통한 상상력 자극 기법과 미술이론,다양한 재료사용으로 표현력 증대 학교 교육과정 연계수업과 수행평가 대비 수채화,한국화,데생,드로잉,크로키 특화수업 연령에 따른 기초다지기와 완성도 높은 작품"/>
+		<meta property="twitter:description" content="체계적이고 꼼꼼한 실기지도(원장직강) 다양한 장르의 그리기를 통한 상상력 자극 기법과 미술이론,다양한 재료사용으로 표현력 증대 학교 교육과정 연계수업과 수행평가 대비 수채화,한국화,데생,드로잉,크로키 특화수업 연령에 따른 기초다지기와 완성도 높은 작품"/>
+		<meta property="twitter:card" content="summary_large_image"/>
+	
+
+<title>그레이스 미술: 네이버 지도</title>
+<link rel="stylesheet" type="text/css" href="/css/siteview/local_v1549877194791.css">
+<link rel="stylesheet" type="text/css" href="/css/siteview/local_comment_v1549877194791.css">
+
+
+
+<style type="text/css">
+.spot_favorite{
+	top: 30px; right: 0px;
+}
+</style>
+
+
+
+<script type="text/javascript" src="/js2/compact/mapcore_v1550714688422.js"></script>
+<script type="text/javascript" src="/js2/compact/baselib,siteview_jindo_component,siteview_base_component_v1549877194791.js"></script>
+
+<script type="text/javascript">
+	document.domain = "naver.com";
+
+	
+
+	
+	oVersion = {"flash" : "_v1549877194791"};
+	oPanoramaData = {metaDomain:"pvxml.map.naver.com", version:window.sPanoramaVersion||""};
+
+	
+	user = {"id" : "", "email" : "", "isLoggedIn" : "false"};
+	siteview = {  "summary": {    "siteInquiryType": "detail",    "siteType": "drt",    "coordinate": {      "x": "126.7580576",      "y": "37.7255159",      "mapZoomLevel": "12",      "isExactPosition": true    },    "id": "286834430",    "name": "그레이스 미술",    "address": "경기도 파주시 와동동 1374-1",    "addressAbbr": "와동동 1374-1",    "roadAddr": {      "text": "경기도 파주시 가온로 284-1 대광프라자",      "abbrText": "가온로 284-1"    },    "isPollingPlace": false,    "isRestaurant": false,    "isHairshop": false,    "isPlaceAttraction": false,    "isAccommodation": false,    "phone": "010-8250-7534",    "virtualPhone": "0507-1401-7534",    "phoneOrigin": "010-8250-7534",    "isCallLink": false,    "callLinkKey": "45d9256e5ceefbb28b4bf9970c297fbf",    "isPremium": false,    "category": "학원 &gt; 미술학원",    "twoDepthCategory": "학원 &gt; 미술학원",    "lastCategory": "미술학원",    "josaForLastCategory": "을",    "cid": "226542",    "homepageList": null,    "description": "",    "detailedDescription": "체계적이고 꼼꼼한 실기지도(원장직강)\u000a다양한 장르의 그리기를 통한 상상력 자극\u000a기법과 미술이론,다양한 재료사용으로 표현력 증대\u000a학교 교육과정 연계수업과 수행평가 대비\u000a수채화,한국화,데생,드로잉,크로키 특화수업\u000a연령에 따른 기초다지기와 완성도 높은 작품",    "descriptionForMobile": "체계적이고 꼼꼼한 실기지도(원장직강)\u000a다양한 장르의 그...",    "moreDescriptionBtnForMobile": true,    "moreDetailedDescription": "",    "moreDetailedDescriptionUrl": "",    "road": "와동초 후문(큰기적 교회 건너편 2층)",    "infoSource": "",    "infoSourceUrl": "",    "targetUrl": "",    "mobileTargetUrl": "",    "hasPoint": false,    "hasReview": false,    "isUserEditCheck": false,    "repKeywordList": [      "파주미술",      "수채화",      "한국화",      "아동미술",      "운정미술"    ],    "brandDirNum": null,    "naverTalktalkUrlForPc": null,    "naverTalktalkUrlForMobile": null,    "isNailshop": false,    "isHospital": false  },  "bizHours": {    "bizHourList": [      {        "type": "매일",        "startTime": "10:00",        "endTime": "19:00",        "isDayOff": false,        "description": "법정 공휴일 휴무",        "outer-class": {          "bizHourList": null        }      }    ]  },  "options": {    "optionList": [      {        "id": "7",        "name": "무선 인터넷",        "desc": null,        "outer-class": {          "optionList": null,          "optionDescList": null        }      }    ],    "optionDescList": [    ]  },  "images": {    "imageList": [      {        "type": "DRT",        "number": "1",        "url": "http://ldb.phinf.naver.net/20161216_110/1481896714151fW9z2_JPEG/177166628853367_0.jpeg",        "source": null,        "desc": "",        "ugcInfo": null,        "modDate": "2017-08-09 05:23:10",        "moreImageUrlForPC": null,        "moreImageUrlForMobile": null,        "nclickForPC": null,        "tabName": "baseInfo",        "hideProviderText": false,        "outer-class": {          "imageList": null        }      },      {        "type": "DRT",        "number": "2",        "url": "http://ldb.phinf.naver.net/20161216_264/1481896714444gLffJ_JPEG/177166628853367_1.jpeg",        "source": null,        "desc": "",        "ugcInfo": null,        "modDate": "2017-08-09 05:23:10",        "moreImageUrlForPC": null,        "moreImageUrlForMobile": null,        "nclickForPC": null,        "tabName": "baseInfo",        "hideProviderText": false,        "outer-class": {          "imageList": null        }      }    ]  },  "menus": {    "menuImage": null,    "menuList": [      {        "name": ".",        "price": "변동가격(업주문의)",        "isRecommended": false,        "change": true,        "outer-class": {          "menuImage": null,          "menuList": null        }      }    ]  },  "menuImages": {    "menuImageList": [    ]  },  "coupon": {    "isShow": false,    "url": "",    "mobileUrl": ""  },  "subphones": {    "count": "0",    "subphoneList": [    ]  },  "relateInfos": {    "relateInfoList": [    ]  },  "searchInterlock": {    "TRUE": "1",    "keyword": "7fb908f4ef25b4f5eb5ed930a4bf33b031d65536f5042358ab14f3b95da276c8b4ce31aa9e854f7461e1092ca5cbd5f2",    "blog": "1",    "cafe": "1"  },  "streetPanorama": {    "id": "zW3fZ3lA03W4UJJ9+dN02w==",    "pan": "76.97",    "tilt": "10",    "lng": "126.7577587",    "lat": "37.7255143",    "fov": "120"  },  "skyPanorama": {    "id": "Jf13FhBWSFXGcpch18JLpw==",    "pan": "-89.41",    "tilt": "-30",    "lng": "126.7600021",    "lat": "37.7254944",    "fov": "124"  },  "insidePanorama": {    "id": "",    "pan": "0.0",    "tilt": "0.0",    "lng": "0.0",    "lat": "0.0",    "fov": "0"  },  "interiorPanorama": {    "id": "",    "pan": "0.0",    "tilt": "0.0",    "lng": "0.0",    "lat": "0.0",    "fov": "0"  },  "indoorPanorama": {    "id": "",    "pan": "0.0",    "tilt": "0.0",    "lng": "0.0",    "lat": "0.0",    "fov": "0"  },  "indoor": {    "floor": "",    "underGmid": null,    "underMid": "0"  },  "theme": null,  "themeDetail": null,  "editButtons": {    "editButtonList": [      {        "name": "정보수정 제안",        "type": "report",        "url": "\u000a\u0009\u0009https://report.map.naver.com/form.nhn\u000a\u0009",        "nclicksName": "wronginfo",        "outer-class": {          "editButtonList": null        }      },      {        "name": "통계",        "type": "stats",        "url": "https://submit.naver.com/checkLoginType.nhn",        "nclicksName": "stats",        "outer-class": {          "editButtonList": null        }      }    ]  },  "poi": {    "poi_info": {      "road": {        "poiShapeType": "1",        "shapeKey": null,        "boundary": null,        "detail": null      },      "hasRoad": false,      "land": null,      "hasLand": false,      "polygon": null,      "hasPolygon": false    },    "entrance_coord": {      "ENTRANCE_COORD_FIELD_SIZE": 7,      "entranceCoords": [        {          "isRepresentative": "1",          "coordType": "3",          "entranceCoordX": "126.7578220",          "entranceCoordY": "37.7255290",          "coordSubType": 0        }      ]    }  },  "thumbnail": {    "number": "0",    "url": "http://ldb.phinf.naver.net/20161216_110/1481896714151fW9z2_JPEG/177166628853367_0.jpeg",    "source": null,    "imageTabName": "baseInfo",    "modDate": null,    "hasMore": true  },  "cpDetail": {    "nadleDetail": null,    "citymapDetail": null,    "baeminDetail": null,    "onnuriDetail": null,    "campingzoneDetail": null,    "moduDetail": null,    "toiletDetail": null,    "naverBookingDetail": null,    "uokDetail": null,    "hiraDetail": null,    "tvcastDetail": null,    "shopwindowDetail": null,    "yogiyoDetail": null,    "cescoDetail": null,    "golfzonDetail": null,    "opinetDetail": null,    "yanoljaDetail": null,    "goodchoiceDetail": null,    "yeogiyaDetail": null,    "naverhotelDetail": null,    "cpMenuList": [      "DEFAULT"    ],    "relatedLinks": {      "relatedLinkList": [      ]    },    "michelinGuide": null,    "kozazaDetail": null,    "heybeautyDetail": null  },  "card": {    "hasBenefit": false  },  "hairshop": null,  "lastModified": "2019-03-08 18:05:43"};
+
+	
+	
+	
+	isClickAdArea = false;
+
+	
+	var mapObj; 
+
+	
+	var NModules;
+	var ctx;
+
+	
+	iron.ns("nhn.map.service");
+
+	
+	var nsc = "map.spage";
+	var ccsrv = "cc.naver.com";
+	var sid = "286834430";
+</script>
+
+</head>
+<body>
+
+<div id="u_skip">
+	<a href="#container" onclick="document.getElementById('container').tabIndex = -1;document.getElementById('container').focus();return false;"><span>본문으로 바로가기</span></a>
+</div>
+
+
+<div id="wrap">
+	
+	<div id="header">
+		<div class="header_inner">
+			
+			<h2 class="map_h2"><a href="http://www.naver.com" class="spm spm_tnaver" data-nclicks="STA.naverlogo">NAVER</a><a href="http://map.naver.com" class="spm spm_tmap" data-nclicks="STA.map">지도</a></h2>
+			
+
+			
+			<div class="sch" id="_search">
+				<fieldset>
+					<legend>검색</legend>
+					<span class="ii">
+						<span class="ii_inner">
+							<input type="text" title="검색어 입력" class="input_act" id="_searchInput" data-x="126.7580576" data-y="37.7255159">
+						</span>
+					</span>
+
+					
+					
+					
+					<button type="submit" class="spm spm_ssch" id="_searchButton">검색</button>
+				</fieldset>
+			</div>
+			
+
+			
+			<div class="map_gnb_wrap">
+				<div id="gnb">
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	
+
+	
+	<div id="container">
+		<div class="container_inner">
+			<div class="title_area" id="_title">
+	<h1 class="title _titleText" style="display:none;">그레이스 미술</h1>
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ta_icset _titleIcon">
+	
+		
+		
+		
+		
+		
+			
+			
+				
+				
+					<a href="/?lng=126.7580576&lat=37.7255159&dlevel=12&mapmode=0&pinId=286834430&pinType=site&enc=b64" class="spm spm_ta_map" title="지도보기" data-nclicks="siu.gomap">지도보기</a>
+				
+			
+
+			<a href="/?elat=37.7255159&elng=126.7580576&eText=%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%8A%A4+%EB%AF%B8%EC%88%A0&edid=286834430&eType=SITE_1" class="spm spm_ta_findway" title="길찾기" data-nclicks="siu.goroute">길찾기</a>
+		
+	
+	
+	
+		
+		<div class="ta_icset_box">
+			<h5 class="blind">지도</h5>
+			<ul>
+				
+					
+					
+						<li><a href="/?streetViewer=on&enc=b64&pinId=286834430&lng=126.7580576&lat=37.7255159&pinType=site" class="spm spm_ta_road" title="거리뷰" data-nclicks="siu.streetpano">거리뷰</a></li>	
+					
+				
+				<li><a href="/?flightViewer=on&enc=b64&pinId=286834430&lng=126.7580576&lat=37.7255159&pinType=site" class="spm spm_ta_air" title="항공뷰" data-nclicks="siu.skypano">항공뷰</a></li>
+				
+				
+			</ul>
+		</div>
+	
+	
+	
+		<div class="ta_icset_box">
+			<h5 class="blind">공유 및 인쇄</h5>
+			<ul>
+				<li id="_bookmarkBase">
+					
+					<a href="#" class="spm spm_ta_favorite _bookmarkBtn" title="즐겨찾기">즐겨찾기</a>
+				</li>
+				<li><a href="#" class="spm spm_ta_print" title="인쇄" id="print" data-nclicks="siu.print">인쇄</a></li>
+				<li class="_share" title="보내기">
+				</li>
+			</ul>
+		</div>
+	
+</div>
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="local_info ">
+	<h5 class="blind">업체정보</h5>
+	<dl class="local_info_detail">
+		
+		
+		
+			<dt><span class="spm spm_tit_addr">주소</span></dt>
+
+			
+			
+				
+				
+				
+				
+					
+						
+						
+							
+							
+							
+								
+								
+							
+						
+					
+					
+						
+							<dd class="_siteviewAddress" data-address="경기도 파주시 가온로 284-1 대광프라자">
+								<a href="/?sm=clk&query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%ED%8C%8C%EC%A3%BC%EC%8B%9C+%EA%B0%80%EC%98%A8%EB%A1%9C+284-1+%EB%8C%80%EA%B4%91%ED%94%84%EB%9D%BC%EC%9E%90" data-nclicks="sif.address">경기도 파주시 가온로 284-1 대광프라자</a>
+								
+									<p class="roadname">
+										<a href="/?sm=clk&query=%EA%B2%BD%EA%B8%B0%EB%8F%84+%ED%8C%8C%EC%A3%BC%EC%8B%9C+%EC%99%80%EB%8F%99%EB%8F%99+1374-1">
+											<span class="spm spm_detail_road_v2">지번</span>
+											경기도 파주시 와동동 1374-1
+										</a>
+									</p>
+								
+							</dd>
+						
+						
+					
+				
+			
+		
+
+		
+			
+			
+				
+			
+		
+
+		
+			<dt><span class="spm spm_tit_tel">전화번호</span></dt>
+			<dd class="_siteviewPhone" data-phone="010-8250-7534">
+				
+					
+					010-8250-7534
+				
+
+				
+			</dd>
+		
+
+		
+			<dt><span class="spm spm_tit_cate">분류</span></dt>
+			<dd>학원 > 미술학원</dd>
+		
+
+		
+
+		
+			<dt><span class="spm spm_tit_keyword">대표키워드</span></dt>
+			<dd>
+				<div class="item_keyword">
+					<span class="spm spm_keyword"></span>
+					
+						
+						<a href="/?query=%ED%8C%8C%EC%A3%BC%EB%AF%B8%EC%88%A0" data-nclicks="sif.keyword">파주미술</a>, 
+					
+						
+						<a href="/?query=%EC%88%98%EC%B1%84%ED%99%94" data-nclicks="sif.keyword">수채화</a>, 
+					
+						
+						<a href="/?query=%ED%95%9C%EA%B5%AD%ED%99%94" data-nclicks="sif.keyword">한국화</a>, 
+					
+						
+						<a href="/?query=%EC%95%84%EB%8F%99%EB%AF%B8%EC%88%A0" data-nclicks="sif.keyword">아동미술</a>, 
+					
+						
+						<a href="/?query=%EC%9A%B4%EC%A0%95%EB%AF%B8%EC%88%A0" data-nclicks="sif.keyword">운정미술</a>
+					
+				</div>
+			</dd>
+		
+		
+	</dl>
+
+
+	
+	
+		<div class="local_info_thumb">
+			<a href="#" data-changetab="_baseTab;_baseInfoTab;_imageTab" data-scroll="_baseInfoImageContent" data-nclicks="sif.image">
+				
+				
+				<img src="https://search.pstatic.net/common/?expire=720&type=ofullfill&size=220x165&src=http%3A%2F%2Fldb.phinf.naver.net%2F20161216_110%2F1481896714151fW9z2_JPEG%2F177166628853367_0.jpeg" width="220" height="165" alt="그레이스 미술">
+				<span class="vfix"></span>
+				<span class="fix"></span>
+			</a>
+
+			
+				<a href="#" class="spm spm_li_morethumb" title="이미지 더보기" data-changetab="_baseTab;_baseInfoTab;_imageTab" data-scroll="_baseInfoImageContent" data-nclicks="sif.imgnum">이미지 더보기</a>
+			
+		</div>
+	
+
+	
+	
+	
+
+	
+		
+		
+		<div class="local_info_act _userEditLayer">
+			<h5 class="blind">업체관련 링크</h5>
+
+			
+				
+					
+					
+					
+						<a href="#" class="spm spm_li_report" id="_report" data-url="
+		https://report.map.naver.com/form.nhn
+	" data-nclicks="sif.wronginfo">정보수정 제안</a>
+					
+					
+				
+					
+					
+					
+						<a href="#" class="spm spm_li_stats" id="_stats" data-url="https://submit.naver.com/checkLoginType.nhn" data-nclicks="sif.stats">통계</a>
+					
+					
+				
+			
+
+			<script language="javascript">
+				function testSubmitOpenPopup(url,name,property) {
+					document.domain="naver.com";
+				 	_g_task_popup=window.open(url,name,property);
+				 	_g_task_popup.focus();
+				}
+			</script>
+
+			
+
+			<div class="btn_like">
+				
+				<div class="u_likeit_module">
+				    <a href="#" class="u_likeit_btn" data-sid="MAP" data-did="MAP" data-cid="286834430" data-likeit="0"><span class="u_ico"></span><em class="u_cnt"></em></a>
+				</div>
+				
+			</div>
+			
+
+			
+			
+
+			<script type="text/javascript" src="https://common.like.naver.com/static/js/likeIt.list.js?v=20190309"></script>
+			<script type="text/javascript">
+				$(window).load(function() {
+					nhn.LikeIt.list.util.init({
+						sId : "MAP",
+						sDomain : "https://common.like.naver.com",
+						bMobile : false
+						});
+				});
+			</script>
+
+			
+				
+
+
+
+
+
+
+				
+			
+		</div>
+		
+		
+			<div class="local_info_banner">
+				<a href="http://blog.naver.com/naver_map/220822309327" target="_blank">
+					<img src="https://ssl.pstatic.net/static/maps/img/banner_place_info.png" width="420" height="50" alt="우리동네 바뀐 가게 알려주면, NPay 포인트가 펑펑!">
+				</a>
+			</div>
+		
+		
+		<p class="txt_og">2019.03.08 수정</p>
+		
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="local_tab" id="_mainTabMenus">
+	<h5 class="blind">탭메뉴</h5>
+	<ul>
+		
+		<li class="lt_detail on" data-tabname="_baseTab">
+			<a href="#" data-nclicks="tab.detail">
+				<strong class="spm spm_lt_detail _tabTitle">상세정보</strong>
+				<span class="spm spm_lt_check"></span>
+			</a>
+		</li>
+
+		<li class="lt_post" id="_post" data-tabname="_postTab">
+			<a href="#" data-nclicks="tab.postrv">
+				<strong class="spm spm_lt_post _tabTitle">포스트 리뷰</strong>
+				<em id="_postCount"></em>
+				<span class="spm spm_lt_check"></span>
+			</a>
+		</li>
+
+		
+			<li class="lt_review" id="_visit" data-tabname="_visitTab">
+				<a href="#" data-nclicks="tab.visit">
+					<strong class="spm spm_lt_review_v2 _tabTitle">블로그/카페 리뷰</strong>
+					<em id="_visitCount"></em>
+					<span class="spm spm_lt_check"></span>
+				</a>
+			</li>
+		
+		
+		
+		
+		
+	</ul>
+</div>
+
+
+
+<h2 class="blind" id="_mainTabTitle">상세정보</h2>
+
+
+<div class="article" id="_mainTabContents">
+	
+	<div data-tabname="_baseTab" id="_base">
+		
+
+
+
+<ul class="local_tab2" id="_baseTabMenus" style="display:none;">
+	
+		
+		<li data-tabname="_baseInfoTab"><a href="#" class="spm _tabTitle" data-nclicks="dti.default">기본 정보</a></li>
+	
+</ul>
+
+<h3 class="blind" id="_baseTabTitle">기본 정보</h3>
+
+<div id="_baseTabContents">
+	
+		
+		
+		<div data-tabname="_baseInfoTab" id="_baseInfo" class="_baseTabContent" style="display:block;">
+			
+				
+				
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="section section_detail">
+		<dl>
+			
+			
+			
+				
+				
+					
+				
+			
+			
+				<dt><span class="spm spm_ld_time">이용시간</span></dt>
+				<dd class="section_detail_time">
+					<ul>
+						
+							<li>
+								
+									<strong>매일</strong>
+								
+								
+								
+								
+								<span>10:00~19:00 법정 공휴일 휴무</span>
+								
+							</li>
+						
+					</ul>
+				</dd>
+			
+			
+			
+			
+				<dt><span class="spm spm_ld_info">이용정보</span></dt>
+				<dd class="section_detail_info">
+					
+						
+							<ul>
+								
+									<li><span class="spm spm_info7"></span>무선 인터넷</li>
+								
+							</ul>
+						
+						
+					
+				</dd>
+			
+			
+			
+			
+								
+			
+				
+				
+				
+				
+					
+				
+			
+			
+				<dt><span class="spm spm_ld_pay">가격정보</span></dt>
+				
+					
+					
+						
+					
+				
+				<dd class="ldi section_detail_pay ">
+					
+						<ul>
+							
+								<li>
+									<strong>.</strong>
+									<em><strong>변동가격(업주문의)</strong></em>
+									
+								</li>
+							
+						</ul>
+					
+				</dd>
+			
+			
+			
+			
+			
+			
+			
+			
+		</dl>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="section section_detail">
+		<h3><span class="spm spm_t_detail">상세설명</span></h3>
+		<p>
+			
+			체계적이고 꼼꼼한 실기지도(원장직강)<br />다양한 장르의 그리기를 통한 상상력 자극<br />기법과 미술이론,다양한 재료사용으로 표현력 증대<br />학교 교육과정 연계수업과 수행평가 대비<br />수채화,한국화,데생,드로잉,크로키 특화수업<br />연령에 따른 기초다지기와 완성도 높은 작품
+			
+		</p>
+	</div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+		
+	
+		
+			
+		
+	
+
+
+
+
+
+	<div id="_baseInfoImageContent">
+		<div class="section section_picture _imageviewer">
+			
+			
+				
+				
+					
+					<h3><span class="spm spm_t_picture">사진정보</span></h3>
+				
+				
+			
+			
+			
+			<div id="_imageTabContents">
+				
+					<div id="_imageViewer" data-tabname="_imageTab" class="_lazyImgContainer">
+						
+
+
+
+
+
+
+
+	
+		
+				
+	
+
+	
+
+
+<!-- <h3><span class="spm spm_t_picture">사진정보</span></h3> -->
+<span class="txt_upt"></span>
+
+<div class="sp_picture sp_picture_v2 _lazyImgContainer">
+	<a href="#" class="btn_imageprev" style="display:none;" data-nclicks="pif.prev"><span class="sp_photo">이전 이미지</span></a>
+	
+	<img class="_lazyImgItem" data-url="https://search.pstatic.net/common/?src=http%3A%2F%2Fldb.phinf.naver.net%2F20161216_110%2F1481896714151fW9z2_JPEG%2F177166628853367_0.jpeg" alt="사진"><span class="fix"></span>
+	<a href="#" class="btn_image" target="_blank" data-nclicks="pif.original" data-origin="http://ldb.phinf.naver.net/20161216_110/1481896714151fW9z2_JPEG/177166628853367_0.jpeg"><span class="sp_photo">이미지 원본 보기</span></a>
+	<p class="txt_og _drtInfo" style="display:none;"></p>
+	<p class="txt_og _noDrtInfo" style="display:none;"><strong class="label_og"></strong><span class="_provideInfo">제휴업체에서 제공하는 사진입니다.</span><a href="#"  data-nclicks="" target="_blank">더보기</a></p>
+	<p class="txt_og _ugcInfo" style="display:none;"><strong class="label_blog">블로그</strong><span></span><a href="#"  data-nclicks="pif.source" target="_blank">원문보기</a></p>
+	<a href="#" class="btn_imagenext" style="display:none;" target="_blank" data-nclicks="pif.next"><span class="sp_photo">다음 이미지</span></a>
+</div>
+
+<div class="sp_thumb_slide sp_thumb_slide_v2 _lazyImgContainer">
+	<div class="sp_thumb_lst_wrap">
+		<ul class="sp_thumb_lst">
+		
+			
+				
+				
+				
+				
+				
+				<li><a href="#"  data-nclicks="pif.thumb"><img class="_lazyImgItem" data-url="https://search.pstatic.net/common/?src=http%3A%2F%2Fldb.phinf.naver.net%2F20161216_110%2F1481896714151fW9z2_JPEG%2F177166628853367_0.jpeg" height="80" alt="사진 선택" data-moddate="2017-08-09 05:23:10" data-source="" data-desc="" data-ugcinfosource="" data-ugcinfourl="" data-moreimageurl="" data-moreimageurlnclick="" data-type="DRT" data-origin="http://ldb.phinf.naver.net/20161216_110/1481896714151fW9z2_JPEG/177166628853367_0.jpeg" data-hideprovidertext="false"><span class="fix"></span><span class="vfix"></span></a></li>
+			
+		
+			
+				
+				
+				
+				
+				
+				<li><a href="#"  data-nclicks="pif.thumb"><img class="_lazyImgItem" data-url="https://search.pstatic.net/common/?src=http%3A%2F%2Fldb.phinf.naver.net%2F20161216_264%2F1481896714444gLffJ_JPEG%2F177166628853367_1.jpeg" height="80" alt="사진 선택" data-moddate="2017-08-09 05:23:10" data-source="" data-desc="" data-ugcinfosource="" data-ugcinfourl="" data-moreimageurl="" data-moreimageurlnclick="" data-type="DRT" data-origin="http://ldb.phinf.naver.net/20161216_264/1481896714444gLffJ_JPEG/177166628853367_1.jpeg" data-hideprovidertext="false"><span class="fix"></span><span class="vfix"></span></a></li>
+			
+		
+		</ul>
+	</div>
+</div>
+					</div>
+				
+				
+				
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="section section_way">
+	<h3><span class="spm spm_t_way">찾아가는 길</span></h3>
+	<div class="section_way_iconset">
+		<a href="/?elat=37.7255159&elng=126.7580576&eText=%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%8A%A4+%EB%AF%B8%EC%88%A0&edid=286834430&eType=SITE_1" class="spm spm_ta_findway" data-nclicks="dti.goroute">길찾기</a>
+		
+		
+									
+		
+			
+			<div class="ta_icset_box">
+				<h5 class="blind">지도</h5>
+				<ul>
+					
+						
+						
+							<li><a href="/?streetViewer=on&enc=b64&pinId=286834430&lng=126.7580576&lat=37.7255159&pinType=site" class="spm spm_ta_road" title="거리뷰" data-nclicks="dti.streetpano">거리뷰</a></li>	
+						
+					
+					<li><a href="/?flightViewer=on&enc=b64&pinId=286834430&lng=126.7580576&lat=37.7255159&pinType=site" class="spm spm_ta_air" title="항공뷰" data-nclicks="dti.skypano">항공뷰</a></li>
+				</ul>
+			</div>
+		
+	</div>
+
+	
+	<div class="map_capture _naverMap" id="_naverMap" data-nclickscode="dti.gomap">
+		<a href="#" class="spm spm_ic_map" title="지도에서 보기" style="z-index:50;">지도에서 보기</a>
+		<span class="fix"></span>
+	</div>
+	
+	
+		
+		
+		
+		
+			
+				
+				
+				
+				
+				
+					
+				
+				
+			
+			
+			
+			
+				<div class="map_intro">
+					와동초 후문(큰기적 교회 건너편 2층)
+				</div>
+			
+				
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		
+			<div class="section_two_depth">
+				<h4><span class="spm spm_t2_bus">주변 버스정류장</span></h4>
+				<a href="/?enc=b64&dlevel=11&pinType=site&pinId=286834430&perimeter=0&lng=126.7580576&lat=37.7255159" class="spm more_arr2" data-nclicks="dti.submore">지도에서 더보기</a>
+				<ul class="around_busstop">
+					
+						<li>
+							<a href="/?enc=b64&busStationId=189331&pinType=site&pinId=286834430&lng=126.7580576&lat=37.7255159" data-nclicks="dti.businfo">와동초교 (50-044)</a>
+						</li>
+					
+						<li>
+							<a href="/?enc=b64&busStationId=189332&pinType=site&pinId=286834430&lng=126.7580576&lat=37.7255159" data-nclicks="dti.businfo">와동초교 (50-043)</a>
+						</li>
+					
+						<li>
+							<a href="/?enc=b64&busStationId=195052&pinType=site&pinId=286834430&lng=126.7580576&lat=37.7255159" data-nclicks="dti.businfo">가람마을11단지 (31-622)</a>
+						</li>
+					
+						<li>
+							<a href="/?enc=b64&busStationId=192936&pinType=site&pinId=286834430&lng=126.7580576&lat=37.7255159" data-nclicks="dti.businfo">라온공원 (30-973)</a>
+						</li>
+					
+						<li>
+							<a href="/?enc=b64&busStationId=80291&pinType=site&pinId=286834430&lng=126.7580576&lat=37.7255159" data-nclicks="dti.businfo">한길육교 (31-703)</a>
+						</li>
+					
+						<li>
+							<a href="/?enc=b64&busStationId=80292&pinType=site&pinId=286834430&lng=126.7580576&lat=37.7255159" data-nclicks="dti.businfo">한길육교 (31-705)</a>
+						</li>
+					
+						<li>
+							<a href="/?enc=b64&busStationId=195051&pinType=site&pinId=286834430&lng=126.7580576&lat=37.7255159" data-nclicks="dti.businfo">가람마을11단지 (31-621)</a>
+						</li>
+					
+				</ul>
+			</div>
+		
+	
+	
+</div>
+
+
+
+
+
+	<div class="section section_review" id="_postSummary">
+		<h3 id="_postSummaryTotal"><span class="spm spm_t_post">포스트 리뷰</span> <em>0</em></h3>
+		<a href="#" class="more_arr" data-changetab="_postTab" data-scroll="_post" data-nclicks="prv.more">더보기</a>
+		
+		<div id="_postContentsSummary">
+			
+		</div>
+	</div>
+
+
+
+
+
+	<div class="section section_review" id="_visitSummary">
+		
+			
+			
+				<h3 id="_visitSummaryTotal"><span class="spm spm_t_review_v2">블로그/카페 리뷰</span> <em>0</em></h3>
+			
+		
+		<a href="#" class="more_arr" data-changetab="_visitTab" data-scroll="_visit" data-nclicks="vis.more">더보기</a>
+		
+		<div id="_visitContentsSummary">
+			
+		</div>
+	</div>
+
+
+
+
+
+		
+				
+			
+		</div>
+	
+</div>
+
+	</div>
+	
+
+	
+	<div data-tabname="_postTab" style="display: none;">
+		
+
+
+
+<div class="section section_review_page" id="_postTab" data-code="286834430">
+	<div id="_postTabContents">
+		<p class="sr_title">총 <em><strong>0</strong>건</em></p>
+		<div id="_postContent">
+			
+		</div>
+		
+		<div class="paginate_wrap" id="_postPaginate">
+			<div class="paginate">
+				<span class="pre">이전</span>
+				<a href="#" title="이전" class="pre">이전</a>
+				
+				<a href="#" class="_page">{=page}</a>
+				
+				<span class="next">다음</span>
+				<a href="#" title="다음" class="next">다음</a>
+			</div>
+		</div>
+	</div>
+</div>
+	</div>
+	
+	
+	
+	
+		<div data-tabname="_visitTab" style="display: none;">
+			
+
+
+
+
+<div class="section section_review_page" id="_visitTab" data-id="286834430" data-blog="1" data-cafe="1" data-keyword="7fb908f4ef25b4f5eb5ed930a4bf33b031d65536f5042358ab14f3b95da276c8b4ce31aa9e854f7461e1092ca5cbd5f2">
+	<div id="_visitTabContents">
+		<p class="sr_title">총 <em><strong>0</strong>건</em></p>
+		<div id="_visitContent">
+			
+		</div>
+		
+		<div class="paginate_wrap" id="_visitPaginate">
+			<div class="paginate">
+				<span class="pre">이전</span>
+				<a href="#" title="이전" class="pre">이전</a>
+				
+				<a href="#" class="_page" data-nclicks="rev*b.page">{=page}</a>
+				
+				<span class="next">다음</span>
+				<a href="#" title="다음" class="next">다음</a>
+			</div>
+		</div>
+	</div>
+</div>
+		</div>
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+</div>
+
+
+
+<script type="text/template" id="cbox_tpl_scoreArea">
+	<div class="cbox_select_area">
+		<div id="s2" class="selectbox-noscript"> 
+			<select name="" class="selectbox-source" title="평점선택"> 
+				<option class="selectbox-default">평점선택</option> 
+				<option value="5">10점</option> 
+				<option value="4.5">9점</option> 
+				<option value="4">8점</option> 
+				<option value="3.5">7점</option> 
+				<option value="3">6점</option> 
+				<option value="2.5">5점</option> 
+				<option value="2">4점</option> 
+				<option value="1.5">3점</option> 
+				<option value="1">2점</option> 
+				<option value="0.5">1점</option> 
+			</select> 
+			<div class="selectbox-box"> 
+				<div class="selectbox-label">평점선택</div> 
+			</div> 
+			<div class="selectbox-layer"> 
+				<div class="selectbox-list"> 
+				</div> 
+			</div> 
+		</div> 
+	</div>
+</script>
+
+
+<script type="text/template" id="cbox_tpl_countArea">
+	<div class='cbox_list_info blind'>
+	</div>
+</script>
+
+
+<script type="text/template" id="cbox_tpl_blockComment">
+	<li class="cbox_thumb_off comment_no_{=commentNo}" >
+		{if replyLevel > 1} <span class="cbox_bu_subnode">ㄴ</span> {/if}
+		<div class="cbox_comment_area">
+			<div class="cbox_info_area">
+				<div class="cbox_section2">
+				</div>
+			</div>
+			<div class="cbox_desc_comment">
+				<p class="cbox_desc" style="word-break:break-all;line-break: all;word-wrap:break-word;">
+					{if status == 7 }
+					본 게시물은 저작권법 제103조에 의거하여 저작권자의 요청으로 게시중단(복제, 전송의 중단) 되었습니다.
+					{elseif status == 8}
+					본 게시물은 정보통신망이용촉진및정보보호등에 관한 법률 제44조의2를 준수하기 위해 다른 이용자의 요청으로 게시중단(임시조치) 되었습니다.
+					{elseif status == 9}
+					본 게시물은 정보통신망이용촉진및정보보호등에 관한 법률 제44조의2를 준수하기 위해 다른 이용자의 요청으로 임시 게시중단 되었습니다.
+					{/if}
+				</p>
+			</div>						
+		</div>
+		<ul>
+		</ul>		
+	</li>
+</script>
+
+
+<script type="text/javascript" src="/js2/compact/siteview_default.js?_v1549877194791"></script>
+<script type="text/javascript" src="/js2/compact/siteview_cbox.js?_v1549877194791"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		infoSectionHandlers["_baseTab"] = new nhn.map.siteview.BaseSectionHandler(siteview);
+		
+		if (true) {
+			infoSectionHandlers["_visitTab"] = new nhn.map.siteview.VisitSectionHandler();
+		}
+		
+		infoSectionHandlers["_postTab"] = new nhn.map.siteview.PostSectionHandler();
+		
+		if (false){
+			infoSectionHandlers["_reviewTab"] = new nhn.map.siteview.ReviewSectionHandler(user);
+		}
+		
+	});
+</script>
+		</div>
+	</div>
+	
+
+	
+	<div id="footer">
+		<h5 class="blind">하단링크</h5>
+		<ul class="afooter_lst">
+			<li><a href="#" target="_blank" id="_footerReport" data-url="" data-nclicks="fot.report">지도수정요청</a></li>
+			<li><a href="https://developers.naver.com/products/map/" target="blank" data-nclicks="fot.openapi">지도오픈API</a></li>
+			<li><a href="#" target="_blank" id="_legalNotice" data-nclicks="fot.legalnotice">법적공지</a></li>
+			<li class="_control" id="_customerServiceLayer">
+				<a href="#" class="hdc_open _openLayer" data-nclicks="fot.csopen">고객센터<span class="spm spm_hdmore_close">레이어 열기</span></a>
+				<div class="ly_helpdesk _layer">
+					<h4 class="blind">고객센터 레이어</h4>
+					<ul>
+						<li><a href="https://smartplace.naver.com/" target="_blank" class="helpdesk_submit" data-nclicks="fot.submit">업체정보 등록</a></li>
+						<li><a href="http://www.naver.com/rules/service.html" target="_blank" class="helpdesk_rules" data-nclicks="fot.agreement">이용약관</a></li>
+						<li><a href="http://www.naver.com/rules/privacy.html" target="_blank" class="helpdesk_privacy" data-nclicks="fot.privacy">개인정보처리방침</a></li>
+						<li><a href="http://www.naver.com/rules/disclaimer.html" target="_blank" class="helpdesk_disclaimer" data-nclicks="fot.disclaimer">책임의 한계와 법적고지</a></li>
+						<li><a href="https://help.naver.com/support/service/main.nhn?serviceNo=768" class="helpdesk_help" data-nclicks="fot.help">지도 고객센터</a></li>
+					</ul>
+					<div class="opac_line"></div>
+				</div>
+				<a href="#" class="hdc_close _closeLayer" data-nclicks="fot.csclose">고객센터<span class="spm spm_hdmore">레이어 닫기</span></a>
+			</li>
+		</ul>
+		<address><a href="http://www.navercorp.com/ko/index.nhn" data-nclicks="fot.navercorp"><em>&copy;</em> NAVER Corp.</a></address>
+		
+	</div>
+	
+</div>
+
+
+<div class="p_info_layer _userEditLayer _layer _control _openLayer" style="display:none;"><p>지역업체 신청자가<br>직접 작성한 정보입니다.</p></div>
+
+
+<form target="_blank" method="post" id="form" style="display:none;"></form>
+
+
+<form target="_blank" method="post" id="search_submit_form" style="display: none;"></form>
+
+
+<script type=text/javascript charset="utf-8" src="/js2/compact/gnb_map_utf8.js?_v1549877194791"></script>
+
+
+
+<script type="text/javascript" src="/js2/compact/siteview_util,siteview_component,siteview_jquery_hashchange,siteview,siteview_export,siteview_map,siteview_autocomplete.js?_v1549877194791"></script>
+
+
+<script type="text/javascript">
+	
+	nhn.map.siteview.Bootstrap.setup({
+		"user" : user,
+		"siteview" : siteview
+	}).boot();
+
+	
+	var gnb_service = "map";
+	var gnb_logout = encodeURIComponent(location.href);
+	var gnb_template = "gnb_map_utf8";
+	var gnb_shortnick= "on";
+	var gnb_brightness=1;
+
+	getGNB();
+
+	
+	var nclk_evt = 3;
+	nclk_do();
+</script>
+</body>
+</html>
