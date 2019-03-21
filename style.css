@@ -12,15 +12,15 @@ a{
      padding:20px;
    }
    ol{
-     border-right:5px solid gray;
-     width:200px;
+     border-right:0px solid gray;
+     width:300px;
      margin:0px;
    }
   
   #grid{
       border:5px solid pink;
       display:grid;
-      grid-template-columns: 200px 1fr;
+      grid-template-columns: 300px 1fr;
     
       div{
         border:5px solid gray;
