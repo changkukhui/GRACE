@@ -23,7 +23,7 @@ a{
       grid-template-columns: 200px 1fr;
     
       div{
-        border:0px solid gray;
+        border:5px solid gray;
   }
   
         @media(max-width:800px) {
