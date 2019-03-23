@@ -21,12 +21,12 @@ a{
       border:5px solid pink;
       display:grid;
       grid-template-columns: 300px 1fr;
-    
+}
       div{
         border:5px solid gray;
   }
   
         @media(max-width:800px) {
         div{
-          display:none;
+          display:none;}
         }
